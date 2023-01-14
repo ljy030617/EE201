@@ -14,7 +14,9 @@ I was born and raised in Zhuzhou, Hunan province, China. The food in my hometown
 
 ## Here are some photos
 
+<p float="left">
 <img src="./photos/me.jpeg"  width="150">
 <img src="./photos/my_dog.jpeg"  width="104">
 <img src="./photos/my_bike.jpeg"  width="130">
 <img src="./photos/Beef_Wellington.jpeg"  width="185">
+</p>
