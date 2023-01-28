@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "lab4 exercise 1.kicad_pro",
+    "filename": "lab4 exercise 2.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -300,17 +300,8 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "fix_passive_vals": false,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 0,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
-    "plot_directory": "C:/Users/Jiuyang Lyu/Projects/EE201/lab4/",
+    "plot_directory": "./",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
@@ -318,7 +309,7 @@
   },
   "sheets": [
     [
-      "e6544776-b782-427b-8225-0b59bdd033dc",
+      "572ef335-9b56-42ad-95cd-66754894f0b9",
       ""
     ]
   ],
